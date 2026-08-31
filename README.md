@@ -20,7 +20,7 @@ Estou em transição para a área de tecnologia, focado em criar soluções simp
 ### 📫 Como me encontrar:
 
 [[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crysan-ar%C3%A1ujo-552662384)
-[[Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crysan2009@gmail.com)
+[[Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Gmailto:crysan2009@gmail.com)
 
 ---
 
