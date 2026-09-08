@@ -1,0 +1,23 @@
+# ⚡ Calculadora de Consumo Elétrico Inteligente
+
+[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 🎯 Objetivo
+Sistema para ajudar usuários a estimar o gasto de energia elétrica de um aparelho por mês, evitando sustos na conta de luz.
+
+### 💻 Tecnologias
+- Linguagem: Python 3
+- Ambiente: VS Code
+
+### 🧮 Fórmula Utilizada
+`consumoMensal = (potencia * horasDia * 30) / 1000`
+
+- Conversão de Watts para kW dividindo por 1000
+- Multiplica por 30 dias
+- Custo extra: `custo = consumo * 0.75`
+
+### 🚀 Como executar
+```bash
+python app.py
